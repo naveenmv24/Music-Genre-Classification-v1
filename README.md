@@ -1,4 +1,4 @@
-# BT5153_Group4_Final_Project
+# Music Genre Classification v1
 Final Project for the NUS course BT5153 - Music Genre Classification
 
 Datasets:
